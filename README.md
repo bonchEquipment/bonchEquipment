@@ -11,4 +11,4 @@ Feel free to contact me via [vk](https://vk.com/mi1estone) or [telegram](https:/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=area-checker&theme=gruvbox)](https://github.com/bonchEquipment/area-checker)
 
 ---
-<img disabled="disabled" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonchEquipment&layout=compact&theme=gruvbox"/>
+<img style="pointer-events: none; cursor: default; user-select: none; color:red"  unselectable="on" disabled="disabled"  data-canonical-src="https://imto.ru" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonchEquipment&layout=compact&theme=gruvbox"/>
