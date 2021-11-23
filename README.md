@@ -6,19 +6,9 @@ Feel free to contact me via [vk](https://vk.com/mi1estone) or [telegram](https:/
 * 💸	 I’m currently working on project for VTB hackathon
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=vehicle-manager&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=image-rotation&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=area-checker&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=vehicle-manager&theme=gruvbox)](https://github.com/bonchEquipment/vehicle-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=image-rotation&theme=gruvbox)](https://github.com/bonchEquipment/image-rotation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=area-checker&theme=gruvbox)](https://github.com/bonchEquipment/area-checker)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonchEquipment&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- <img src="someGIf.gif" width = "256"/> -->
-
-
-
-
-
-
-
+<img disabled="disabled" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonchEquipment&layout=compact&theme=gruvbox"/>
