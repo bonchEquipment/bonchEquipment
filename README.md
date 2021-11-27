@@ -1,9 +1,9 @@
 ## Hi there ✌️
-I'm Arseny from St. Peterburg, and I'm a passionate java developer.
+I'm Arseny from St. Peterburg, and I'm a passionate java developer. Currently studying at <a href="https://itmo.ru" target=”_blank”>ITMO University</a>.
 Feel free to contact me via [vk](https://vk.com/mi1estone) or [telegram](https://t.me/Mi1eStone)
 
 * 🍃 I’m currently learning Spring Boot
-* 💸	 I’m currently working on project for VTB hackathon
+* 💸 I’m currently working on project for VTB hackathon
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonchEquipment&repo=vehicle-manager&theme=gruvbox)](https://github.com/bonchEquipment/vehicle-manager)
